@@ -13,7 +13,6 @@ row1:
     url: "https://www-edc.eng.cam.ac.uk/staff/dr-lekaa-rambabu"
     btn_label: "Personal Page"
     btn_class: "btn--inverse"
-row2:
   - image_path: /assets/images/group_members/coffey.jpg
     title: "Claire Coffey"
     excerpt: "PhD candidate in Health Data Science at the University of Cambridge."
@@ -26,13 +25,13 @@ row2:
     url: "https://nelaturuharsha.github.io/"
     btn_label: "Personal Page"
     btn_class: "btn--inverse"
+row2:
   - image_path: /assets/images/group_members/jovanovic.jpg
     title: "Andrej Jovanović"
     excerpt: "Research Assistant @ the Institute of Science and Technology Austria."
     url: "https://maddox-j.github.io/"
     btn_label: "Personal Page"
     btn_class: "btn--inverse"
-row3:
   - image_path: /assets/images/group_members/penmetcha.jpg
     title: "Vedha Penmetcha"
     excerpt: "Undergrad at Rice University focusing on Sports Medicine and Exercise Physiology as well as Global Health Technologies and Medical Humanities."
