@@ -82,5 +82,5 @@ defaults:
       share: false
       related: false
 
-custom_css:
-  - assets/css/custom.css  # _posts
+# custom_css:
+#   - assets/css/custom.css  # _posts
