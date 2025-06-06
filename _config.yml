@@ -20,7 +20,7 @@
 
 title: Project LEIA
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the virtual laboratory tackling equity in AI, focusing on 
+  Website for the virtual laboratory interested in equity in AI, focusing on 
   healthcare applications.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://project-leia.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
