@@ -67,7 +67,8 @@ author:
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/mmistakes"
 
-defaults:
+defaults:    
+custom_css: assets/css/custom.css
   # _posts
   - scope:
       path: ""
@@ -79,5 +80,5 @@ defaults:
       comments: false
       share: false
       related: false
-    custom_css: assets/css/custom.css
+
 
