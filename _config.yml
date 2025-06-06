@@ -79,3 +79,5 @@ defaults:
       comments: false
       share: false
       related: false
+    custom_css: assets/css/custom.css
+
