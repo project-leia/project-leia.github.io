@@ -57,7 +57,8 @@ plugins:
 # Site Author
 author:
   name             : "Lab for Equity in AI"
-  avatar           : "assets/leia_logo.png"
+  avatar           : <img src="assets/leia_logo.png" class="my-custom-image">
+    # avatar           : "assets/leia_logo.png"
   bio              : "Virtual laboratory tackling equity in AI, focusing on healthcare applications."
   location         : "Virtual"
     
