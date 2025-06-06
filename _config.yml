@@ -71,8 +71,6 @@ author:
   #     url: "https://twitter.com/mmistakes"
 
 defaults:    
-custom_css: assets/css/custom.css
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -84,4 +82,5 @@ custom_css: assets/css/custom.css
       share: false
       related: false
 
-
+custom_css:
+  - assets/css/custom.css  # _posts
