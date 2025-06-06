@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project LEIA
+title: Project LEIAA
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the virtual laboratory interested in equity in AI, focusing on 
   healthcare applications.
