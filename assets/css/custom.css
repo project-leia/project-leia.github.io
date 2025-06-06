@@ -1,5 +1,12 @@
 .author__avatar leia_logo.png,
-.author__avatar {
+.author__avatar leia_logo.png{
+  border-radius: 0;
+  max-width: 2000px;
+  border-radius: 100;
+}
+
+.my-custom-image {
+  /* Your styles here */
   border-radius: 0;
   max-width: 2000px;
   border-radius: 100;
